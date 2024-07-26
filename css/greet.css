@@ -1,0 +1,35 @@
+body{
+    background-image: url(../img/111.png);
+    background-repeat: no-repeat;
+
+}
+
+.pgreet{
+    font-size: 25px;
+    text-align: center;
+    position: relative; top: -250px;
+    color: rgb(243, 235, 235);
+}
+
+.getstart{
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    position: relative; 
+    top: -200px;
+    padding: 10px 25px;
+    background-color: rgb(76, 184, 70);
+    
+    
+}
+.pacc{
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: -210px;
+    color: rgb(56, 12, 229);
+}
+
+.login{
+    text-decoration: none;
+}
