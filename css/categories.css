@@ -78,9 +78,9 @@ p{
   padding: 8px 7px;
 
 }
-button{
+.serc button{
   position: absolute;
-  top: 0;
+  top: 0px;
   right: 0;
   width: 50px;
   height: 100%;
