@@ -1,0 +1,27 @@
+ul{
+    text-align: center;
+    
+}
+.team{
+    background-color: rgb(101, 122, 122);
+    border: 3px solid rgb(255, 255, 255);
+    position: relative;
+    display: inline-block;
+    top: 200px;
+    left: 170px;
+    margin: auto;
+    padding: 60px 30px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 25px;
+    box-shadow: 2px 2px 10px rgb(245, 245, 245);
+    font-style:oblique;
+}
+li{
+    margin-top: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}

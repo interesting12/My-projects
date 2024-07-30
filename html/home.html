@@ -10,17 +10,19 @@
     <link rel="stylesheet" href="../css/navbar.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="../css/card.css">
+    <link rel="stylesheet" href="../css/back to top.css">
+    
 
 </head>
 <body>
   <!-- navbar -->
-  <div class="bg-img">
+  <div class="bg-img" id="navbar">
     <div class="container">
       <div class="topnav">
-        <a href="#home">Home</a>
-        <a href="#news">News</a>
-        <a href="#contact">Contact</a>
-        <a href="#about">About</a>
+        <a href="../html/home.html">Home</a>
+        <a href=".//login.html">Log in</a>
+        <a href="../html/contact.html">Contact</a>
+        <a href="../html/about.html">About</a>
       </div>
     </div>
   </div>
@@ -29,20 +31,20 @@
       <div class="front">
         <b>Front side</b>
         <ul>
-          <li><a href="">Front bumper</a></li>
-          <li><a href="">Hood</a></li>
-          <li><a href="">lights</a></li>
+          <li><a href="#fbump">Front bumper</a></li>
+          <li><a href="#hood">Hood</a></li>
+          <li><a href="#flight">lights</a></li>
         </ul>
         <b>Back side</b>
         <ul>
-          <li><a href="#">Spoiller</a></li>
-          <li><a href="#">Back bumper</a></li>
-          <li><a href="#">Back lights</a></li>
+          <a href="#spoiler"><li>Spoiller</li></a>
+          <li><a href="#bbump">Back bumper</a></li>
+          <li><a href="#blight">Back lights</a></li>
 
         </ul>
-        <p><a href="">Doors</a></p>
-        <p><a href="">Wheels</a></p>
-        <p><a href="">Steering wheel</a></p>
+        <p><a href="#door">Doors</a></p>
+        <p><a href="#wheels">Wheels</a></p>
+        <p><a href="#stwheels">Steering wheel</a></p>
         
       </div>
       
@@ -57,7 +59,7 @@
      
      
      <!-- bump1 -->
-   <form action="bumper1" class="bumper1"> 
+   <form action="bumper1" class="bumper1" id="fbump"> 
     <div class="bump1">
       <img src="../img/bumper1.webp">
       <h4>Ford mustang front bumper</h4>
@@ -129,10 +131,10 @@
     
 
         <!-- hood1 -->
-   <form action="hood1" class="hood1"> 
+   <form action="hood1" class="hood1" id="hood"> 
     <div class="hod1">
       <img src="../img/hood1.jpg">
-      <h4>Ford mustang front bumper</h4>
+      <h4>BMW Hood</h4>
       <div class="hd">
         <span>350$</span>
         <button>Buy</button>
@@ -143,7 +145,7 @@
    <form action="#" class="hood2"> 
     <div class="hod2">
       <img src="../img/hood2.jpg">
-      <h4>Ford mustang front bumper </h4>
+      <h4>BMW Hood </h4>
       <div class="hd2">
         <span>450$</span>
         <button>Buy</button>
@@ -152,10 +154,10 @@
    </form>
 
      <!-- bump3 -->
-  <form action="#" class="hood3"> 
+  <form action="#" class="hood3" id="hood"> 
       <div class="hod3">
         <img src="../img/hood3.jpeg">
-        <h4>BMW front bumper </h4>
+        <h4>Mitsubishi hood </h4>
         <div class="hd3">
           <span>300$</span>
           <button>Buy</button>
@@ -168,7 +170,7 @@
    <form action="# " class="hood4"> 
     <div class="hod4">
       <img src="../img/hood4.jpg">
-      <h4>Mercedes front bumper</h4>
+      <h4>Mitsubishi hood</h4>
       <div class="hd4">
         <span>250$</span>
         <button>Buy</button>
@@ -179,7 +181,7 @@
    <form action="#" class="hood5"> 
     <div class="hod5">
       <img src="../img/hood5.jpg">
-      <h4>BMW front bumper </h4>
+      <h4>Subaru Hood </h4>
       <div class="hd5">
         <span>350$</span>
         <button>Buy</button>
@@ -191,7 +193,7 @@
      <form action="#" class="hood6"> 
       <div class="hod6">
         <img src="../img/hood6.jpg">
-        <h4>Mercedes front bumper </h4>
+        <h4>Subaru Hood  </h4>
         <div class="hd6">
           <span>400$</span>
           <button>Buy</button>
@@ -201,10 +203,10 @@
 
      <!-- lights -->
            
-   <form action="#" class="light1"> 
+   <form action="#" class="light1" id="flight"> 
     <div class="ligh1">
       <img src="../img/light1.webp">
-      <h4>Ford mustang front bumper</h4>
+      <h4>Front light</h4>
       <div class="lit1">
         <span>350$</span>
         <button>Buy</button>
@@ -215,7 +217,7 @@
    <form action="#" class="light2"> 
     <div class="ligh2">
       <img src="../img/light2.jpeg">
-      <h4>Ford mustang front bumper </h4>
+      <h4>Front light </h4>
       <div class="lit2">
         <span>450$</span>
         <button>Buy</button>
@@ -226,7 +228,7 @@
   <form action="#" class="light3"> 
       <div class="ligh3">
         <img src="../img/light3.webp">
-        <h4>BMW front bumper </h4>
+        <h4>Front light </h4>
         <div class="lit3">
           <span>300$</span>
           <button>Buy</button>
@@ -239,7 +241,7 @@
    <form action="# " class="light4"> 
     <div class="ligh4">
       <img src="../img/light4.jpg">
-      <h4>Mercedes front bumper</h4>
+      <h4>Front light</h4>
       <div class="lit4">
         <span>250$</span>
         <button>Buy</button>
@@ -250,7 +252,7 @@
    <form action="#" class="light5"> 
     <div class="ligh5">
       <img src="../img/light5.jpeg">
-      <h4>BMW front bumper </h4>
+      <h4>Front light </h4>
       <div class="lit5">
         <span>350$</span>
         <button>Buy</button>
@@ -262,16 +264,16 @@
      <form action="#" class="light6"> 
       <div class="ligh6">
         <img src="../img/light6.webp">
-        <h4>Mercedes front bumper </h4>
+        <h4>Front light </h4>
         <div class="lit6">
           <span>400$</span>
           <button>Buy</button>
         </div>
       </div>
      </form>
-
+       
      <!-- spoilerss -->
-     <form action="#" class="spoiler1"> 
+     <form action="#" class="spoiler1" id="spoiler"> 
       <div class="spoil1">
         <img src="../img/spoiler1.jpg">
         <h4>spoiler</h4>
@@ -339,5 +341,298 @@
           </div>
         </div>
        </form>
+   
+
+     <!-- back bumper -->
+     <form action="#" class="bbumper1" id="bbump"> 
+      <div class="bbump1">
+        <img src="../img/bmw1.jpg">
+        <h4>BMW back bumper</h4>
+        <div class="lit1">
+          <span>250$</span>
+          <button>Buy</button>
+        </div>
+      </div>
+     </form>
+    <!-- bbumper2 -->
+     <form action="#" class="bbumper2"> 
+      <div class="bbump2">
+        <img src="../img/bmw2.jpg">
+        <h4>BMW back bumper </h4>
+        <div class="lit2">
+          <span>300$</span>
+          <button>Buy</button>
+        </div>
+      </div>
+     </form>
+     <!-- bbumper3 -->
+    <form action="#" class="bbumper3"> 
+        <div class="bbump3">
+          <img src="../img/mercedes1.webp">
+          <h4>Mercedes back bumper </h4>
+          <div class="lit3">
+            <span>250$</span>
+            <button>Buy</button>
+          </div>
+        </div>
+    </form>
+  
+  
+           <!-- bbumper4 -->
+     <form action="# " class="bbumper4"> 
+      <div class="bbump4">
+        <img src="../img/mercedes2.jpg">
+        <h4>Mercedes back bumper</h4>
+        <div class="lit4">
+          <span>350$</span>
+          <button>Buy</button>
+        </div>
+      </div>
+     </form>
+     <!-- bbumper5 -->
+     <form action="#" class="bbumper5"> 
+      <div class="bbump5">
+        <img src="../img/audi1.webp">
+        <h4>Audi back bumper </h4>
+        <div class="lit5">
+          <span>220$</span>
+          <button>Buy</button>
+        </div>
+      </div>
+     </form>
+  
+       <!-- bbumper6 -->
+       <form action="#" class="bbumper6"> 
+        <div class="bbump6">
+          <img src="../img/audi2.jpg">
+          <h4>Audi back bumper </h4>
+          <div class="lit6">
+            <span>180$</span>
+            <button>Buy</button>
+          </div>
+        </div>
+       </form>
+
+
+
+
+     <!-- lights -->
+     <form action="#" class="blight1" id="blight"> 
+      <div class="blig1">
+        <img src="../img/nissan1.jpg">
+        <h4>Nissan back light</h4>
+        <div class="lit1">
+          <span>250$</span>
+          <button>Buy</button>
+        </div>
+      </div>
+     </form>
+    <!-- blight2 -->
+     <form action="#" class="blight2"> 
+      <div class="blig2">
+        <img src="../img/nissan2.jpg">
+        <h4>Nissan back light </h4>
+        <div class="lit2">
+          <span>300$</span>
+          <button>Buy</button>
+        </div>
+      </div>
+     </form>
+     <!-- blight3 -->
+    <form action="#" class="blight3"> 
+        <div class="blig3">
+          <img src="../img/supra1.jpg">
+          <h4>Supra back light </h4>
+          <div class="lit3">
+            <span>2050$</span>
+            <button>Buy</button>
+          </div>
+        </div>
+    </form>
+  
+  
+           <!-- blight4 -->
+     <form action="# " class="blight4"> 
+      <div class="blig4">
+        <img src="../img/supra2.webp">
+        <h4>Supra back light</h4>
+        <div class="lit4">
+          <span>1500$</span>
+          <button>Buy</button>
+        </div>
+      </div>
+     </form>
+     <!-- blight5 -->
+     <form action="#" class="blight5"> 
+      <div class="blig5">
+        <img src="../img/ford2.jpg">
+        <h4>Ford back light </h4>
+        <div class="lit5">
+          <span>520$</span>
+          <button>Buy</button>
+        </div>
+      </div>
+     </form>
+  
+       <!-- blight6 -->
+       <form action="#" class="blight6"> 
+        <div class="blig6">
+          <img src="../img/ford2.jpg">
+          <h4>Ford back light </h4>
+          <div class="lit6">
+            <span>480$</span>
+            <button>Buy</button>
+          </div>
+        </div>
+       </form>
+
+
+     
+      <!-- doors -->
+      <form action="#" class="doors1" id="door"> 
+        <div class="door1">
+          <img src="../img/honda1.avif">
+          <h4>Honda door</h4>
+          <div class="lit1">
+            <span>150$</span>
+            <button>Buy</button>
+          </div>
+        </div>
+       </form>
+      <!-- doors2 -->
+       <form action="#" class="doors2"> 
+        <div class="door2">
+          <img src="../img/honda2.jpg">
+          <h4>Honda door </h4>
+          <div class="lit2">
+            <span>100$</span>
+            <button>Buy</button>
+          </div>
+        </div>
+       </form>
+       <!-- doors3 -->
+      <form action="#" class="doors3"> 
+          <div class="door3">
+            <img src="../img/bmwdor1.jpg">
+            <h4>BMW door </h4>
+            <div class="lit3">
+              <span>250$</span>
+              <button>Buy</button>
+            </div>
+          </div>
+      </form>
+             <!-- doors4 -->
+       <form action="# " class="doors4"> 
+        <div class="door4">
+          <img src="../img/mercedesdor1.jpg">
+          <h4>Mercedes door</h4>
+          <div class="lit4">
+            <span>200$</span>
+            <button>Buy</button>
+          </div>
+        </div>
+       </form>
+
+       <!-- wheels -->
+        
+    
+      <form action="#" class="wheels1" id="wheels"> 
+        <div class="wheel1">
+          <img src="../img/mwheel1.jpg">
+          <h4>Mercedes Wheels</h4>
+          <div class="lit1">
+            <span>350$</span>
+            <button>Buy</button>
+          </div>
+        </div>
+       </form>
+      <!-- wheels2 -->
+       <form action="#" class="wheels2"> 
+        <div class="wheel2">
+          <img src="../img/bwheel4.jpg">
+          <h4> BMW Wheels </h4>
+          <div class="lit2">
+            <span>400$</span>
+            <button>Buy</button>
+          </div>
+        </div>
+       </form>
+       <!-- wheels3 -->
+      <form action="#" class="wheels3"> 
+          <div class="wheel3">
+            <img src="../img/bbs1.jpg">
+            <h4> BBS Wheels </h4>
+            <div class="lit3">
+              <span>450$</span>
+              <button>Buy</button>
+            </div>
+          </div>
+      </form>
+             <!-- wheels 4 -->
+       <form action="# " class="wheels4"> 
+        <div class="wheel4">
+          <img src="../img/bbs2.jpg">
+          <h4>BBS Wheels</h4>
+          <div class="lit4">
+            <span>400$</span>
+            <button>Buy</button>
+          </div>
+        </div>
+       </form>
+
+
+       <!-- streeting wheel -->
+       <form action="#" class="stwhels1" id="stwheels"> 
+        <div class="stwhel1">
+          <img src="../img/bsawe1.jpg">
+          <h4>BMW streeting wheels</h4>
+          <div class="lit1">
+            <span>350$</span>
+            <button>Buy</button>
+          </div>
+        </div>
+       </form>
+      <!-- wheels2 -->
+       <form action="#" class="stwhels2"> 
+        <div class="stwhel2">
+          <img src="../img/msawe2.jpg">
+          <h4> Mercedes streeting Wheels </h4>
+          <div class="lit2">
+            <span>300$</span>
+            <button>Buy</button>
+          </div>
+        </div>
+       </form>
+       <!-- wheels3 -->
+      <form action="#" class="stwhels3"> 
+          <div class="stwhel3">
+            <img src="../img/msawe3.jpg">
+            <h4> Mercedes streeting Wheels </h4>
+            <div class="lit3">
+              <span>350$</span>
+              <button>Buy</button>
+            </div>
+          </div>
+      </form>
+             <!-- wheels 4 -->
+       <form action="# " class="stwhels4"> 
+        <div class="stwhel4">  
+          <img src="../img/dornado1.jpg">
+          <h4>Dornado streeting Wheels</h4>
+          <div class="lit4">
+            <span>400$</span>
+            <button>Buy</button>
+          </div>
+        </div>
+       </form>
+
+       <!-- back to top -->
+       <a href="#fbump">
+        <button  class="Btn" style="position: relative; top: 2350px; left: 1350px;">
+            <svg  height="1.2em" class="arrow" viewBox="0 0 512 512"><path d="M233.4 105.4c12.5-12.5 32.8-12.5 45.3 0l192 192c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L256 173.3 86.6 342.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3l192-192z"></path></svg>
+              <p class="text1" >Back to Top</p> 
+        </button>
+        </a>
+       
 </body>
 </html>

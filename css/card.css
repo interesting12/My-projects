@@ -776,3 +776,795 @@
     font-size: 20px;
     
 }
+
+
+/* back bumper */
+.bbumper1{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 1160px;
+    right: 767px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.bbump1 img{
+    max-width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 150px;
+}
+
+.bbump1 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.bbump1 span{
+    font-size: 20px;
+    
+}
+
+.bbumper2{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 860px;
+    left: 673px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.bbump2 img{
+    max-width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    
+}
+
+.bbump2 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.bbump2 span{
+    font-size: 20px;
+    
+}
+
+.bbumper3{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 865px;
+    left: 780px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.bbump3 img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    
+}
+
+.bbump3 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.bbump3 span{
+    font-size: 20px;
+    
+}
+
+
+.bbumper4{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 1280px;
+    right: 245px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.bbump4 img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 150px;
+}
+
+.bbump4 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.bbump4 span{
+    font-size: 20px;
+    
+}
+
+
+.bbumper5{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 1280px;
+    right: 108px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.bbump5 img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 150px;
+}
+
+.bbump5 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.bbump5 span{
+    font-size: 20px;
+    
+}
+
+.bbumper6{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 1280px;
+    right: 1px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.bbump6 img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 150px;
+}
+
+
+.bbump6 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.bbump6 span{
+    font-size: 20px;
+    
+}
+
+
+/* back light */
+.blight1{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 1380px;
+    left: 275px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.blig1 img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 140px;
+}
+
+.blig1 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.blig1 span{
+    font-size: 20px;
+    
+}
+
+.blight2{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 1380px;
+    left: 413px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.blig2 img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 140px;
+   
+}
+
+.blig2 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.blig2 span{
+    font-size: 20px;
+    
+}
+
+.blight3{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 1380px;
+    left: 520px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.blig3 img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 135px;
+}
+
+.blig3 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.blig3 span{
+    font-size: 20px;
+    
+}
+
+
+.blight4{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 1800px;
+    right: 505px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.blig4 img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 150px;
+}
+
+.blig4 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.blig4 span{
+    font-size: 20px;
+    
+}
+
+
+.blight5{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 1800px;
+    right: 368px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.blig5 img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 150px;
+}
+
+.blig5 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.blig5 span{
+    font-size: 20px;
+    
+}
+
+.blight6{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 1487px;
+    left: 1042px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.blig6 img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 150px;
+}
+
+
+.blig6 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.blig6 span{
+    font-size: 20px;
+    
+}
+
+
+/* doors */
+.doors1{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 1900px;
+    left:16px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.door1 img{
+    width: 197px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 140px;
+}
+
+.door1 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.door1 span{
+    font-size: 20px;
+    
+}
+
+.doors2{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 1900px;
+    left: 156px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.door2 img{
+    width: 199px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 140px;
+  
+}
+
+.door2 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.door2 span{
+    font-size: 20px;
+    
+}
+
+.doors3{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 1900px;
+    left: 265px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.door3 img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 135px;
+}
+
+.door3 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.door3 span{
+    font-size: 20px;
+    
+}
+
+
+.doors4{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 2300px;
+    right: 761px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.door4 img{
+    width: 202px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 147px;
+}
+
+.door4 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.door4 span{
+    font-size: 20px;
+    
+}
+
+
+/* wheels */
+
+.wheels1{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 1990px;
+    left: 675px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.wheel1 img{
+    width: 197px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 150px;
+}
+
+.wheel1 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.wheel1 span{
+    font-size: 20px;
+    
+}
+
+.wheels2{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 1990px;
+    left: 800px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.wheel2 img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height:145px ;
+}
+
+.wheel2 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.wheel2 span{
+    font-size: 20px;
+    
+}
+
+.wheels3{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 2400px;
+    right: 240px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.wheel3 img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 150px;
+    
+}
+
+.wheel3 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.wheel3 span{
+    font-size: 20px;
+    
+}
+
+
+.wheels4{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top:2400px;
+    right: 105px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.wheel4 img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 150px;
+}
+
+.wheel4 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.wheel4 span{
+    font-size: 20px;
+    
+}
+
+
+/* streeting wheel */
+
+.stwhels1{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 2400px;
+    right: 0px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.stwhel1 img{
+   width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 150px;
+}
+
+.stwhel1 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.stwhel1 span{
+    font-size: 20px;
+    
+}
+
+.stwhels2{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 2500px;
+    left: 280px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.stwhel2 img{
+    max-width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    
+}
+
+.stwhel2 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.stwhel2 span{
+    font-size: 20px;
+    
+}
+
+.stwhels3{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 2500px;
+    left: 415px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.stwhel3 img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 152px;
+}
+
+.stwhel3 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.stwhel3 span{
+    font-size: 20px;
+    
+}
+
+
+.stwhels4{
+    padding: 30px 25px;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    top: 2500px;
+    left: 517px;
+    background-color: rgb(220, 219, 215);
+    border-radius: 10px;
+
+}   
+
+.stwhel4 img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    height: 150px;
+}
+
+.stwhel4 button{
+    position: relative;
+    padding: 7px 19px;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    background-color: rgb(164, 238, 172);
+}
+.stwhel4 span{
+    font-size: 20px;
+    
+}
